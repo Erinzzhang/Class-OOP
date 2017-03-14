@@ -1,4 +1,4 @@
-// Name: 張雅涵
+// Name: Erin
 // Date: March 2, 2017
 // Last Update: March 14, 2017
 // Problem statement: the spaces are removed from the English text and
