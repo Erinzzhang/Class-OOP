@@ -1,4 +1,4 @@
-// Name: 張雅涵
+// Name: Erin
 // Date: March 14, 2017
 // Last Update: March 14, 2017
 // Problem statement: Sort and output the input number with occurrences.
